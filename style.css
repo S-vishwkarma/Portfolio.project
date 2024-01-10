@@ -1,0 +1,67 @@
+
+body{
+	
+	background-color: lightpink;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+	padding: 0;
+
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+
+}
+header{
+	background-size: padding-top: 0;
+	background-color: rgb(246, 219, 243);
+	color: #720749;
+	text-align: center;
+	padding: 2rem 0;
+}
+ header h1{
+	margin: 0;
+ }
+
+ header p{
+	margin: 0;
+	font-style: italic;
+	text-decoration:darksalmon;
+ }
+
+ section{
+	padding: 4rem 0;
+}
+
+h2{
+	color: rgba(000, 0.087);
+	font-style: initial;
+}
+
+ul{
+	list-style: square;
+	padding: 0;
+}
+
+li{
+	display: -moz-inline-grid;
+	margin: right 20px;
+}
+
+.project{
+	margin-bottom: 20px;
+
+}
+
+footer{
+  
+	background-color: rgb(210, 92, 110);
+	color: rgba(146, 729, 0.393);
+	text-align: center;
+	padding: 1rem 0;
+	position:fixed;
+	scroll-padding-block-start: 0;
+	width: 100%;
+}
+
+
